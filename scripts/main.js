@@ -509,36 +509,36 @@
         skillsType: '',
         // list of skills items to loop through it
         skillsItems: [{
-          imgUrl: "../assets/images/skills/html.png",
+          imgUrl: "assets/images/skills/html.png",
           title: 'HTML'
         }, {
-          imgUrl: '../assets/images/skills/css.png',
+          imgUrl: 'assets/images/skills/css.png',
           title: 'CSS'
         }, {
-          imgUrl: '../assets/images/skills/js.png',
+          imgUrl: 'assets/images/skills/js.png',
           title: 'JavaScript'
         }, {
-          imgUrl: '../assets/images/skills/bootstrap.png',
+          imgUrl: 'assets/images/skills/bootstrap.png',
           title: 'Bootstrap'
         }, {
-          imgUrl: '../assets/images/skills/angular.png',
+          imgUrl: 'assets/images/skills/angular.png',
           title: 'Angular'
         }, {
-          imgUrl: '../assets/images/skills/sass.png',
+          imgUrl: 'assets/images/skills/sass.png',
           title: 'SASS'
         }],
         // list of tools items to loop through it
         toolsItems: [{
-          imgUrl: '../assets/images/skills/ajax.png',
+          imgUrl: 'assets/images/skills/ajax.png',
           title: 'Ajax'
         }, {
-          imgUrl: '../assets/images/skills/github.png',
+          imgUrl: 'assets/images/skills/github.png',
           title: 'Git (Github)'
         }, {
-          imgUrl: '../assets/images/skills/npm.png',
+          imgUrl: 'assets/images/skills/npm.png',
           title: 'Npm'
         }, {
-          imgUrl: '../assets/images/skills/linux.png',
+          imgUrl: 'assets/images/skills/linux.png',
           title: 'Linux'
         },],
         // list of experience items to loop through it
